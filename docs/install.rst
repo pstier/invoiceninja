@@ -32,6 +32,8 @@ Automatic Install/Update
 
 - Softaculous: `softaculous.com <https://www.softaculous.com/apps/ecommerce/Invoice_Ninja>`_
 
+- Installatron: `installatron.com <https://installatron.com/invoiceninja>`_
+
 .. Tip:: You can use `github.com/turbo124/Plane2Ninja <https://github.com/turbo124/Plane2Ninja>`_ to migrate your data from InvoicePlane.
 
 Manual Install
